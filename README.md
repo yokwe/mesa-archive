@@ -10,7 +10,7 @@ Personal copy of mesa related files
 
 
 * Data/GVWin.taz  
-  GVWin desktop, germ, installer and scavenger data files
+  GVWin virtual disk, germ, installer and scavenger data files
 
 
 * Manual/  
