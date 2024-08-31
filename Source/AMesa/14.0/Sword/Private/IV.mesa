@@ -1,0 +1,1 @@
+-- IV.mesaDIRECTORYFormat USING [StringProc],IT USING [Handle];IV: DEFINITIONS = {  SendChars: PROC [h: IT.Handle, s: LONG STRING];  PutRepsWithProc: PROC[n: UNSPECIFIED, output: Format.StringProc, clientData: LONG POINTER];  PutLongRepsWithProc: PROC[n: LONG UNSPECIFIED, output: Format.StringProc, clientData: LONG POINTER];  }..

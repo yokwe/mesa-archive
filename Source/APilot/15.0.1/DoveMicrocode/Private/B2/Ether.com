@@ -1,0 +1,1 @@
+$! -- stored as [Iris]<WMicro>Dove>Ether.com;$! -- created on 30-Nov-84 18:56:39$!$! -- last edited by:$!$! --    BKI   .pa          10-Dec-84 16:47:32$!$ASM86  EtherTsk.asm DEBUG$ASM86  IOREther.asm DEBUG$ASM86  STKEther.asm DEBUG$!$LINK86 EtherTsk.obj,IOREther.obj,STKEther.obj to Ether.lnk

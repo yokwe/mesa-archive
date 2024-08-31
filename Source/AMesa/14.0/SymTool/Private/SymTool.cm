@@ -1,0 +1,1 @@
+Compiler ^  SymToolCommandDefs.mesa SymToolDefs.mesa/p ^  SymToolInterface.mesa SymToolCommands.mesa SymToolFile.mesa SymToolPkg.mesa SymToolSearch.mesa  Compiler FopNames ESCAlphaNames SDDefsNames -- dummy modules.  Binder SymTool

@@ -1,0 +1,1 @@
+-- File: DiagEtherBasicTestExtras.mesa - last edit:-- MXT                  9-Dec-85 14:38:22-- DiagEtherBasicTestExtras.mesa-- Copyright (C) 1985 by Xerox Corporation. All rights reserved.DiagEtherBasicTestExtras: DEFINITIONS =   BEGIN  ActivateEthernetDriver: PROC;  DeactivateEthernetDriver: PROC;  ResetDeviceHandle: PROC;  END...

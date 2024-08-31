@@ -1,0 +1,1 @@
+-- ColorDisplayFaceExtra.mesa-- Last Edited by JPM 19-Nov-91 10:23:06-- Copyright (C) 1991 by Xerox Corporation.  All rights reserved.ColorDisplayFaceExtra: DEFINITIONS =BEGINBitPlanes: PROC RETURNS [NATURAL]; -- implemented on XGV-PCEND. -- of ColorDisplayFaceExtraLOG19-Nov-91 -- JPM -- Created.

@@ -1,0 +1,1 @@
+-- ESCAlphaNames.mesa-- Copyright (C) 1987 by Xerox Corporation. All rights reserved.-- Last edit:-- 	NFS	 2-Mar-87 11:27:51DIRECTORY  MopOps;ESCAlphaNames: PROGRAM EXPORTS MopOps = PUBLIC {}.  }.  

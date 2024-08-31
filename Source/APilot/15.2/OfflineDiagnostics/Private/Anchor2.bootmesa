@@ -1,0 +1,1 @@
+-- File: Anchor2.bootmesa-- Last edited on    4-Feb-86  7:34:22  by KL---- Copyright (C) 1986  by Xerox Corporation. All rights reserved. ---- The purpose of this file is to pin down codes in resident memory.--RESIDENT:  GLOBALFRAME [CommunicationControl],  CommunicationControl;-- LOG   -- KL    16-Jan-86   Created file.

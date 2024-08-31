@@ -1,0 +1,1 @@
+-- Copyright (C) 1988  by Xerox Corporation. All rights reserved. -- MopcodesExtras2.mesa-- RSV		11-Oct-88 16:46:13DIRECTORYMopcodes;MopcodesExtras2: DEFINITIONS = {  -- eventually goes to Mopcodes.mesa  zVMFIND: Mopcodes.op = 277B;  -- equivalent to VMDataInternal.Find      }...  LOGRSV  11-Oct-88 16:46:13  Created file.

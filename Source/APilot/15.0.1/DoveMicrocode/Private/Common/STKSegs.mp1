@@ -1,0 +1,54 @@
+
+IBM PC-DOS 8086 LINKER, V2.0
+
+INPUT FILES: TEMP2.LNK, STKPCE.LNK, STKMMPCE.LNK, STKPPO.OBJ, STKBERM.OBJ, 
+  STKEND.OBJ
+OUTPUT FILE: STKSEGS.LNK
+CONTROLS SPECIFIED IN INVOCATION COMMAND:
+DATE:  10/15/87  TIME:  12:12:49
+
+
+LINK MAP OF MODULE STKOPIE
+
+LOGICAL SEGMENTS INCLUDED:
+LENGTH ADDRESS ALIGN  SEGMENT         CLASS           OVERLAY
+ 0000H ------    G    ??SEG                                         
+ 0160H ------    G    OPIESTK                                       
+ 0020H ------    G    BEEPSTK                                       
+ 0040H ------    G    DISPLAYSTK                                    
+ 0030H ------    G    KEYBOARDANDMOU                                
+                     -SESTK                                         
+ 0040H ------    G    MAINTPANELSTK                                 
+ 00A0H ------    G    BOOTSTRAPSTK                                  
+ 00A0H ------    G    DISKSTK                                       
+ 0020H ------    G    SYSTEMSTK                                     
+ 00F0H ------    G    ETHERNETSTK                                   
+ 00A0H ------    G    FLOPPYSTK                                     
+ 00A0H ------    G    MESAPROCESSORS                                
+                     -TK                                            
+ 00F0H ------    G    TTYSTK                                        
+ 0040H ------    G    PARITYSTK                                     
+ 0050H ------    G    CONFIGURATIONS                                
+                     -TK                                            
+ 01E0H ------    G    RS232CSTK                                     
+ 00A0H ------    G    PCEDISPATCHERS                                
+                     -TK                                            
+ 0050H ------    G    PCEDISPLAYSTK                                 
+ 0080H ------    G    PCEPRINTERSTK                                 
+ 0050H ------    G    PCEFLOPPYSTK                                  
+ 0140H ------    G    PCESERIALSTK                                  
+ 0040H ------    G    PCEMOUSESTK                                   
+ 0040H ------    G    PCEKEYBOARDSTK                                
+ 0040H ------    G    PCECLOCKSTK                                   
+ 0040H ------    G    PCEDISKSTK                                    
+ 00F0H ------    G    PPOSTK                                        
+ 0020H ------    G    CPBERMUDASTK                                  
+ 0000H ------    G    ENDSTK                                        
+
+INPUT MODULES INCLUDED:
+TEMP2.LNK(STKOPIE)
+STKPCE.LNK(STKPDSPT)
+STKMMPCE.LNK(STKPMOUS)
+STKPPO.OBJ(STKPPO)
+STKBERM.OBJ(STKBERM)
+STKEND.OBJ(STKEND)

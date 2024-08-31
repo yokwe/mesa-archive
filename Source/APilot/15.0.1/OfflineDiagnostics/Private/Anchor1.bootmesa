@@ -1,0 +1,1 @@
+-- File: Anchor1.bootmesa-- Last edited on   3-Feb-86  9:14:37  by KL---- Copyright (C) 1986  by Xerox Corporation. All rights reserved. ---- The purpose of this file is to pin down codes in resident memory.--RESIDENT:  GLOBALFRAME [OfflineFloppyDiskUtilitiesDove],  OfflineFloppyDiskUtilitiesDove;-- LOG   -- KL     3-Feb-86   Created file.

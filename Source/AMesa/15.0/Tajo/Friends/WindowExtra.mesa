@@ -1,0 +1,1 @@
+-- Copyright (C) 1983  by Xerox Corporation. All rights reserved. -- WindowExtra.mesa - last edited by-- AXD    ,	10-Jan-83 16:46:45DIRECTORY  Window: TYPE USING [Handle];WindowExtra: DEFINITIONS =  BEGIN    GetUseBadPhosphor: PROC [Window.Handle] RETURNS [BOOLEAN];    SetUseBadPhosphor: PROC [Window.Handle, BOOLEAN] RETURNS [BOOLEAN];    END.

@@ -1,0 +1,1 @@
+$! Command file for RS232CHandlerDove.df$!$!$!$ASM86 IORRS232.asm DEBUG$ASM86 STKRS232.asm DEBUG$ASM86 RS232Hdl.asm DEBUG Macro(50)$!$LINK86 IORRS232.obj,STKRS232.obj,RS232Hdl.obj to RS232Hdl.lnk

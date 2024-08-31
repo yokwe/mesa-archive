@@ -1,0 +1,1 @@
+PCMouse.obj,PCKEYBRD.OBJ,PCClock.obj,PERDEml.obj,IORMmPCE.lnk, &STKMmPCE.lnk TO PCEMmHdl.lnk

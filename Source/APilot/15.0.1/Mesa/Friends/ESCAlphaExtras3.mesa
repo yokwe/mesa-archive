@@ -1,0 +1,1 @@
+-- Copyright (C) 1989 by Fuji Xerox Co., Ltd. All rights reserved. -- File: ESCAlphaExtras3.mesa   -- Last edited by TxH   6-Mar-89 18:02:27  createdDIRECTORY  ESCAlpha USING [alpha];ESCAlphaExtras3: DEFINITIONS =  BEGIN  -- it's created in order to synchronize IOCB queue operations between IOP and Mesa.  aLOCKQUEUE: ESCAlpha.alpha = 206B;    END...

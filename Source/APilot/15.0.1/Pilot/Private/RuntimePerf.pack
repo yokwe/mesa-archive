@@ -1,0 +1,1 @@
+-- RuntimePerf.pack  last edited by AXD      7-Sep-83 17:36:40RuntimePerf: SEGMENT =BEGINResident: CODE PACK =  BEGIN  PilotCounter;  PilotPerfMonitor;  GFHashImpl;  END;END;RuntimePerfResidentFrames: FRAME PACK =   BEGIN  PilotCounter;  PilotPerfMonitor;  GFHashImpl;  END;

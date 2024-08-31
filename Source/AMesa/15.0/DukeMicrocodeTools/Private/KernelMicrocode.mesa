@@ -1,0 +1,1 @@
+-- Copyright (C) 1985  by Xerox Corporation. All rights reserved. ----  DaybreakBermuda>KernelMicrocode.mesa, JAC   , 15-Feb-85 10:40:30KernelMicrocode: DEFINITIONS =  BEGIN  DaybreakKernel: PROGRAM;  END.

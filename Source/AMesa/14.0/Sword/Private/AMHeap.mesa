@@ -1,0 +1,1 @@
+-- Copyright (C) 1985  by Xerox Corporation. All rights reserved. -- AMHeap.mesaAMHeap: DEFINITIONS = {  zone: UNCOUNTED ZONE;  }..

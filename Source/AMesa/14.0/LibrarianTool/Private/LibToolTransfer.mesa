@@ -1,0 +1,1 @@
+-- LibToolTransfer.mesa - Last edited by --   DSC	 4-Apr-85 16:34:33-- Copyright (C) 1985  by Xerox Corporation. All rights reserved. DIRECTORYLibToolSubr;LibToolTransfer: DEFINITIONS = {Retrieve: PROC[name: LONG STRING, localDir: LONG STRING ¬ NIL,  h: LibToolSubr.Handle] RETURNS [retrieved: BOOLEAN];}.

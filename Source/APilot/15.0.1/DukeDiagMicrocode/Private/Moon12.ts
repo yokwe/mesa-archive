@@ -1,0 +1,1 @@
+-- Moon12.ts-- Created By MakeDoveMicroBoot of 14-May-87 23:23:19Input Files:	MoonDvCp.loc		/i		 5-Feb-88 17:31:04	MoonDMMC.fb		/k		20-Aug-85 20:06:31	Moon12.loc		no switches	25-Nov-87 18:43:02Output File:	Moon12.DB		no switches	 5-Feb-88 17:45:12

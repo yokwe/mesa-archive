@@ -1,0 +1,1 @@
+{File name: TripleBank.dfnUsed to assemble microcode for a three-bank system for DukeLast Revised:TxH  12-Sep-88 16:08:47  changed thereAreTwoBanks into TheNumberOfBanks TXM   6-Jun-88 15:53:10  Create}Set[TheNumberOfBanks, 3];Set[FPTEnabled, 2];

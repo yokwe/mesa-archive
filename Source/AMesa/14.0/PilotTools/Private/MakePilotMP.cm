@@ -1,0 +1,1 @@
+-- Copyright (C) 1983  by Xerox Corporation. All rights reserved. -- MakePilotMP.cmAccess why/c "Checking in" out/-s MakePilotMP.dfSetErrorLevel.~ error/p warning/pcompile MakePilotMPSModel MakePilotMPVerifyDF MakePilotMP-- LOG-- JXG     11-Apr-83 17:07:56 created file-- AWL        3-Nov-83 17:34:24 Added checkout of .df file

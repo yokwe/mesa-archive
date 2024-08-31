@@ -1,0 +1,1 @@
+-- UserInputFrames.pack, last edited by-- AXD    	11-Feb-83 19:50:41-- PXK    	14-Feb-83 17:49:30UIResidentFrames: FRAME PACK = {UserInputsA}; -- 5 - 200wUINonResidentFrames: FRAME PACK = { -- 1 - 52w  AtomImpl;  TIPImpl;  TIPMatchImpl;  TIPTableReader;  TajoTIP;  UserInputsB};		

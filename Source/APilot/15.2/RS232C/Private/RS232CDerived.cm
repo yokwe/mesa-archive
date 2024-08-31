@@ -1,0 +1,1 @@
+// RS232CDerived.cm  Last edited by AOF   7-May-87  9:51:01//Access why/c Rebuild out/s RS232CDerived.dfBringOver RS232CDerived// BindBind [symbols: RS232CIO, bcd: UnpackedRS232CIO] ¬ RS232CIO/cPackager RS232CIO[UnpackedRS232CIO]/mSModel /a RS232CDerivedVerifyDF RS232CDerived 

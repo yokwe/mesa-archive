@@ -1,0 +1,1 @@
+-- Copyright (C) 1988 by Fuji Xerox Co., Ltd. All rights reserved. -- FloppyChannelExtras.mesa	12-Jan-89 20:04:33FloppyChannelExtras: DEFINITIONS = {  NotGetConsecutiveVMResidentRealMemory: SIGNAL;    }.    LOG 12-Jan-89 20:08:27	MS	created file

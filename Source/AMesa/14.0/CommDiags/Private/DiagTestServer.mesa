@@ -1,0 +1,1 @@
+-- Copyright (C) 1983, 1984  by Xerox Corporation. All rights reserved. -- DiagTestServer.mesa-- Last edited by SMA 18-Nov-83 18:02:39-- Turns on the communications diagnostics server.DIRECTORY  CommOnlineDiagnostics USING [ServerOn];  DiagTestServer: PROGRAM IMPORTS CommOnlineDiagnostics =  BEGIN  CommOnlineDiagnostics.ServerOn[];  END...

@@ -1,0 +1,1 @@
+-- Copyright (C) 1986  by Xerox Corporation. All rights reserved. -- FileBeater.cm  (last edited by RSV  5-May-86 16:31:07)CheckOutLibject Pilot-Libjects/l "Check in"/r FileBeater.dfcompile FileBeaterImplbind/cs FileBeatersmodel FileBeaterverifydf FileBeater-- LOG--  5-May-86 16:31:07 RSV      Created file.

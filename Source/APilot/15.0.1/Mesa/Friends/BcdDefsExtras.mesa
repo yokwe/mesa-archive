@@ -1,0 +1,1 @@
+-- Copyright (C) 1986  by Xerox Corporation. All rights reserved. -- BcdDefsExtras.Mesa  Edited by-- MEW		13-Jun-86 15:59:32BcdDefsExtras: DEFINITIONS = {  GFTVersionID: CARDINAL = 12206;  Spare4: TYPE = PACKED ARRAY [0..4) OF BOOLEAN;  NewMesaModule: Spare4 = [TRUE, FALSE, FALSE, FALSE];  OldMesaModule: Spare4 = ALL[FALSE];    }...

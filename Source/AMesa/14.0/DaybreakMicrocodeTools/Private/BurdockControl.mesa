@@ -1,0 +1,1 @@
+-- Copyright (C) 1985  by Xerox Corporation. All rights reserved.-- Last edit by JAC	 7-Jun-85 13:59:32	copyright-- BurdockControl.mesa, JoM    , 24-Jan-85 13:09:23DIRECTORY  Window USING [Handle];BurdockControl: DEFINITIONS =  BEGIN  RegisterBurdockWindow: PROC [window: Window.Handle];  END. -- BurdockControl

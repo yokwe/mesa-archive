@@ -1,0 +1,1 @@
+-- Copyright (C) 1983  by Xerox Corporation. All rights reserved. -- PilotTestsOnPilotStubs.mesa   23-Mar-83 17:45:55 by JXP   DIRECTORY  PilotClient;PilotClientImpl: PROGRAM   EXPORTS PilotClient =   BEGIN      Run: PUBLIC --PilotClient.-- PROCEDURE = {};         END.LOG23-Mar-83 17:46:37	JXP   	Created file.

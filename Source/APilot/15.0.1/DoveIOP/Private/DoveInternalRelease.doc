@@ -1,0 +1,1 @@
+1. Load DoveRelease.log into a file window.  Select Edit.2. Load DoveInternalRelease.msg into a file window.3. Copy the entire contents of DoveInternalRelease.msg to DoveRelease.log (just before the latest message).4. Use the NEXT key to fill in the fields.  Select Save.5. Load the message into a Mail Send window and hit Deliver!6. SModel DoveIOPRelease.df.

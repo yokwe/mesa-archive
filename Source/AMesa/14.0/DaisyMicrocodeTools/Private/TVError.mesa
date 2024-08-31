@@ -1,0 +1,1 @@
+-- TVError.mesa-- CxC    	 4-Dec-84 12:53:34-- last edit by jAC   CxC      4-Dec-84 12:53:38DIRECTORY  MStream USING [Handle];TVError: DEFINITIONS =  BEGIN    MakeFile: PROCEDURE [log: LONG POINTER, name: LONG STRING]             RETURNS [ptr: MStream.Handle, temp: BOOLEAN];      END.

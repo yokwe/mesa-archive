@@ -1,0 +1,1 @@
+-- Copyright (C) 1985  by Xerox Corporation. All rights reserved. -- Last edit by JAC          28-Jan-85 19:38:14-- CPCrossJump.mesaDIRECTORY  Format USING [StringProc];CPCrossJump: DEFINITIONS =  BEGIN  CrossJump: PROCEDURE [Format.StringProc, LONG POINTER, LONG STRING];  END...

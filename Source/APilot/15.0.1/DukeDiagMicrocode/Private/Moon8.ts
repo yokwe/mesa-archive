@@ -1,0 +1,1 @@
+-- Moon8.ts-- Created By MakeDoveMicroBoot of 20-Nov-86 11:46:54Input Files:	Moon8.loc		no switches	17-Mar-87 10:51:48Output File:	Moon8.DB		no switches	17-Mar-87 14:16:45

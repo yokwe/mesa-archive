@@ -1,0 +1,1 @@
+-- Copyright (C) 1982  by Xerox Corporation. All rights reserved. -- SpecialTIP.mesa - last edited:-- AXD    	16-Dec-82 12:05:47DIRECTORY  TIP USING [NotifyProc, Table],  Window USING [Handle];  SpecialTIP: DEFINITIONS =  BEGIN    GetManager: PROC RETURNS [    window: Window.Handle, table: TIP.Table, notify: TIP.NotifyProc];    END.

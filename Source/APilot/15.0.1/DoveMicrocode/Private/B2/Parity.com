@@ -1,0 +1,1 @@
+$SET VERIFY$! file = Parity.com$!  ****  Used to link parity handler and IOR Parity to make Parity.Lnk **** $!$LINK86 IORPrty.obj,- PrtyHdlr.obj to Parity.lnk$!$SET NOVERIFY

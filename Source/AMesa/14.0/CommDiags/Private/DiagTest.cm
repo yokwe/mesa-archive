@@ -1,0 +1,1 @@
+// DiagTest.cm  last edited by AOF  28-Jun-87 11:41:10//Access why/c "Rebuild" out/s DiagTest.dfBringOver DiagTest// Compile defsDiagTestInternal.mesa// Compile modulesCompile /-a-bejl-np-u DiagTestServer.mesa DiagTestImpl.mesa DiagTestDisplayImpl.mesa // BindBinder DiagTestTool.config/c-sSModel /a DiagTestVerifyDF DiagTest

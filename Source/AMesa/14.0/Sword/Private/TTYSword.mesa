@@ -1,0 +1,1 @@
+-- Copyright (C) 1986  by Xerox Corporation. All rights reserved. -- TTYSword.mesaDIRECTORYTTY;TTYSword: DEFINITIONS = {  -- Removes dependencies on the window system.   -- If tty is not NIL, interpreters will use the tty for io.  -- If tty is NIL, interpreters create a toolwindow with ttysw.    TTYLocalDebug: PROC[tty: TTY.Handle];      }..

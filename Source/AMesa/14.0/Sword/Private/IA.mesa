@@ -1,0 +1,1 @@
+-- IA.mesaDIRECTORYExec, TTY;IA: DEFINITIONS = {  DoInterpreter: Exec.ExecProc;  UnloadInterpreter: Exec.ExecProc;  HelpInterpreter: Exec.ExecProc;    UnloadITWiskOperations: PROC[];  UnloadDebugUsefulDefs: PROC[];    TopOfFork: PROC[client, switches: LONG STRING, tty: TTY.Handle];  }..

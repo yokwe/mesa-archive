@@ -1,0 +1,1 @@
+-- FontOps.mesa-- Copyright (C) 1984 by Xerox Corporation. All rights reserved.FontOps: DEFINITIONS = {  VT10: PROGRAM;  Terminal10: PROGRAM;  }...

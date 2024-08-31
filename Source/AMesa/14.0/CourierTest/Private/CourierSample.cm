@@ -1,0 +1,1 @@
+// CourierSample.cm  last edit: AOF 28-Jun-87 11:33:07BringOver CourierSample// defsCompile Factorial FactorialInternal// implsCompile /-a-bejl-np-u FactorialClientImpl FactorialDescriptionImpl FactorialServerImpl FactorialTool FactorialSkeleton DescriptionExamples// bindbinder FactServer/c-s Fact/c-sSModel /a CourierSampleVerifyDF CourierSample

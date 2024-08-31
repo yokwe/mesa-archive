@@ -1,0 +1,1 @@
+$MOD186$PAGELENGTH (72)$PAGEWIDTH  (136);Copyright (C) 1987 by Xerox Corporation. All rights reserved.;File:  IORuCode.asm;IORegion locations for the microcode to use.;last edited by:;RDH	15-Mar-87 10:44:20	Create.NAME		IORuCodeuCodeIOR	SEGMENT	COMMONuCodeArea	LABEL	WORDwordsForScratch		EQU	24HscratchForBandBlt	DW	wordsForScratch DUP (?)	uCodeIOR	ENDSEND

@@ -1,0 +1,1 @@
+-- Copyright (C) 1982, 1983, 1985  by Xerox Corporation. All rights reserved. -- AnchorA.bootmesa   15-Jan-87 17:41:20  by SPL---- The purpose of this file is to pin client code packs down in resident-- memory.--RESIDENT:  GLOBALFRAME [DiagEtherBasicTestImpl],  DiagEtherBasicTestImpl;-- LOG   -- SPL    15-Jan-87 17:40:25  Created file.

@@ -1,0 +1,1 @@
+-- Copyright (C) 1983, 1984  by Xerox Corporation. All rights reserved. -- ByteBltTest.cmAccess why/c "Checking in" out/-s ByteBltTest.dfSetErrorLevel.~ error/p warning/pcompile ByteBltTestSModel ByteBltTestVerifyDF ByteBltTest-- LOG-- JXG     13-Apr-83 17:26:23 created file-- AWL        3-Nov-83 16:27:37 Added checkout of .df file

@@ -1,0 +1,1 @@
+{«terse|verbose»}start: {«startTime»}stop: {«stopTime»}// «comment must be here»copy/«switches» [«Host»]<«Directory»>«optional File name» ¬ [«Host»]<«Directory»>«optional file name»rename/«switches» [«Host»]<«Directory»>«optional File name» ¬ [«Host»]<«Directory»>«optional file name»delete/«switches» [«Host»]<«Directory»>«optional File name»

@@ -1,0 +1,1 @@
+-- File: ProcessorFaceExtras3.mesa - last edit:-- TXM:IWA:Fuji Xerox   8-Jan-91 16:06:39-- Copyright (C) 1990, 1991 by Fuji Xerox Co., Ltd. All rights reserved.DIRECTORY  Processor	USING [Type];    ProcessorFaceExtras3: DEFINITIONS =  BEGIN  GetProcessorType: PROCEDURE RETURNS [Processor.Type];      END.    -- LOG24-Oct-90 18:30:27 TxM	Created.

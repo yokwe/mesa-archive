@@ -1,0 +1,1 @@
+-- Copyright (C) 1987  by Xerox Corporation. All rights reserved. -- PinInca.bootmesa 30-Apr-87 18:38:30 by JMA---- The purpose of this file is to pin client code packs and download-- data down in resident memory.--RESIDENT: ALL;-- 30-Apr-87 18:38:18	JMA: Created file.

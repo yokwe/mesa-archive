@@ -1,0 +1,1 @@
+-- Copyright (C) 1981  by Xerox Corporation. All rights reserved. -- TimeStamp.Mesa  Edited by JGS     on August 12, 1980  10:38 AMTimeStamp: DEFINITIONS =  BEGIN  Stamp: TYPE = RECORD [net, host: [0..377B], time: LONG CARDINAL];  Null: Stamp = Stamp[net: 0, host: 0, time: 0];  END.

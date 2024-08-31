@@ -1,0 +1,1 @@
+//NSPrintClientConfig.cm  last edited AOF 27-Jul-87 17:38:40//Compiler implemenationsCompiler /-a-bejl-np-u NSPrintCourierClientImpl NSPrintCourierUtilityImpl//Binder them togetherBinder [bcd: UnpackedNSPrintClientConfig, symbols: NSPrintClientConfig] ¬ NSPrintClientConfig/cs//Package them up prettyPackager NSPrintClientConfig[UnpackedNSPrintClientConfig]/m

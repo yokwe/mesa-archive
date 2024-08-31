@@ -1,0 +1,1 @@
+-- Copyright (C) 1982, 1983  by Xerox Corporation. All rights reserved. -- FileExtras.mesa   26-Aug-83 18:22:14 by JXP   DIRECTORY  File USING [File, Type];FileExtras: DEFINITIONS =  BEGIN  GetType: PROCEDURE [file: File.File] RETURNS [type: File.Type];  END.--LOG26-Aug-83 18:22:17		JXP      Created file.

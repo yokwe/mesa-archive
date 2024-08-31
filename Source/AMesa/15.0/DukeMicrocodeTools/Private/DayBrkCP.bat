@@ -1,0 +1,1 @@
+BREAK ONRUN ASM86 DaybrkCP.asm debug > DaybrkCP.logRUN LINK86 DaybrkCP.obj  TO  DaybrkCP.lnkRUN loc86 &< DLocParm.batBREAK OFF

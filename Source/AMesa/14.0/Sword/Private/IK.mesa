@@ -1,0 +1,1 @@
+-- Copyright (C) 1986  by Xerox Corporation. All rights reserved. -- IK.mesaDIRECTORYAMEvents,IT;IK: DEFINITIONS = {  DestroyHandle: PROC[h: IT.Handle] RETURNS[success: BOOLEAN];  EventHandler: AMEvents.EventProc;  }..

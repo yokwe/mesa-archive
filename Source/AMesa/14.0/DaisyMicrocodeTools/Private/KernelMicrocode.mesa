@@ -1,0 +1,1 @@
+-- Copyright (C) 1984  by Xerox Corporation. All rights reserved. ----  KernelMicrocode.mesa, AYC   , 22-Jun-84 10:18:46--KernelMicrocode: DEFINITIONS =  BEGIN	DaisyKernel: PROGRAM;	KernelOverlay: PROGRAM;	Restore: PROGRAM;	ReadLink: PROGRAM;	SaveMD: PROGRAM;	WriteLink: PROGRAM;  END.  

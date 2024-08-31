@@ -1,0 +1,1 @@
+{ Bank0Reserve.mcReserved locations for debugging kernelin Daybreak bank 0.	by J Trow	 9-Mar-88 21:51:08Copyright 1988 by Xerox Corporation.  All rights reserved. }	Reserve [0F98, 0FFF];

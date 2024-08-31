@@ -1,0 +1,1 @@
+-- BtyInit.mmc.ts-- Created By MakeDoveMicroBoot of 14-May-87 23:23:19Input Files:	BountyInit.fb		/kB0C0		19-Mar-91 12:45:08Output File:	BtyInit.mmc		no switches	19-Mar-91 12:45:22

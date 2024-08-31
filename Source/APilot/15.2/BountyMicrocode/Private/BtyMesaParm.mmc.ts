@@ -1,0 +1,1 @@
+-- BtyMesaParm.mmc.ts-- Created By MakeDoveMicroBoot of 14-May-87 23:23:19Input Files:	BountyMesaParmBank0.fb	/kB0C2		12-Nov-91 12:27:34	BountyMesaRBBank1.fb	/kB1C2		21-Sep-91 10:41:10Output File:	BtyMesaParm.mmc		no switches	12-Nov-91 12:29:04

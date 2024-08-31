@@ -1,0 +1,1 @@
+$MOD186$PAGELENGTH (72)$PAGEWIDTH  (136);Copyright (C) 1985 by Xerox Corporation. All rights reserved.;dummy IORegion to be used only to find the location of the end;of all the IORegion segments;;last edited by:;JAC	21-Nov-85 14:02:08	createdNAME			IOREndEndIOR			SEGMENT	COMMONEndIOR			ENDS			END

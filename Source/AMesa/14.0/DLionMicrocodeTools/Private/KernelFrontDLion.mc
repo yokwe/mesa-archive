@@ -1,0 +1,1 @@
+{KernelFrontDLion.mc, HGM, 12-Oct-82 20:50:59, TPC Assignament section of KernelDLion.mc }{Init the Emulator and IO task TPCs to point to Idle.}	SetTask[0]; StartAddress[Idle];	SetTask[1]; StartAddress[Idle];	SetTask[2]; StartAddress[Idle];	SetTask[3]; StartAddress[Idle];	SetTask[4]; StartAddress[Idle];	SetTask[5]; StartAddress[Idle];	SetTask[7]; StartAddress[KStart];

@@ -1,0 +1,1 @@
+-- File: DiagEtherNS.mesa - last edit:-- MXT                 17-Oct-85 14:19:17-- Copyright (C) 1985 by Xerox Corporation. All rights reserved.DIRECTORY  CH USING[ReturnCode];DiagEtherNS: DEFINITIONS =  BEGIN    Code: TYPE = CH.ReturnCode;  CHIsBound: READONLY BOOLEAN;    GetNearestServer: PROCEDURE RETURNS[ok: BOOLEAN];  StartCHStub: PROCEDURE;    END...

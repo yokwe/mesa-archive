@@ -1,0 +1,1 @@
+-- File: Processor.mesa - last edit:-- TXM:IWA:Fuji Xerox   8-Jan-91 16:05:19-- Copyright (C) 1990, 1991 by Fuji Xerox Co., Ltd. All rights reserved.Processor: DEFINITIONS =  BEGIN  Type: TYPE = RECORD [CARDINAL];    nullType:  Type = [0];    DMachine: TYPE = CARDINAL [1..1024);      END.--LOG24-Oct-90 17:53:58 TxM	Created File.

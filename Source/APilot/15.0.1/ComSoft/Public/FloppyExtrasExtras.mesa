@@ -1,0 +1,1 @@
+-- Copyright (C) Xerox Corporation 1985. All rights reserved.-- FloppyExtrasExtras.mesa (last edited by: EKN   on:  4-Feb-85 12:09:02)  DIRECTORY  Floppy USING [VolumeHandle];  FloppyExtrasExtras: DEFINITIONS =BEGINGetDrive: PROCEDURE [volumeHandle: Floppy.VolumeHandle]   RETURNS [drive: CARDINAL];END.LOG 4-Feb-85 12:09:06     EKN     Created file.

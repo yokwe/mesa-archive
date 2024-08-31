@@ -1,0 +1,1 @@
+-- PromProgrammer.cm--  command file for the Prom Programmer Tool-- last edit by:-- created by Purves, 27-Aug-85 17:36:04-- Copyright (C) 1985 by Xerox Corporation. All rights reserved.compile/bej RS232CProlog PromBlowToolDefscompile/bej RS232CPrologImpl/~u PromBlowToolA PromBlowToolBbind/e PromProgrammer

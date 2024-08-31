@@ -1,0 +1,1 @@
+-- Copyright (C) 1982  by Xerox Corporation. All rights reserved. -- File: FakeExecsF.mesa - last edited by:-- RXR   :	 18-Feb-82 10:46:38DIRECTORY  ExecInternal USING [];    ExecsF: PROGRAM   EXPORTS ExecInternal =  BEGIN  END.

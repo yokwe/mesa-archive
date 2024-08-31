@@ -1,0 +1,1 @@
+--File = ParallelPortFaceExtras.mesa-- BKI	 4-Apr-86 14:21:50	Creation-- Copyright (C) 1986 by Xerox Corporation. All rights reserved.ParallelPortFaceExtras: DEFINITIONS =  BEGIN  InitializeCleanup: PROCEDURE [];  ParallelPortExists: PROCEDURE [] RETURNS [BOOLEAN];  END.

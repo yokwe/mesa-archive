@@ -1,0 +1,47 @@
+IBM PC-DOS 8086 LOCATER, V2.0
+
+INPUT FILE: ETHERTST.LNK
+OUTPUT FILE: ETHERTST.LOC
+CONTROLS SPECIFIED IN INVOCATION COMMAND:
+   TO ETHERTST.LOC PC(PURGE) START(INITIALIZATION) 
+  ADDRESSES(SEGMENTS(IOPEINROM(08000H),IOREGION(0BFC0H),OPIESTK(0580H),
+  ETHERNETSTK(0700H),ETHERNETTESTSTK(07F0H),OPIEIOR(0890H),ETHERNETIOR(0A60H)
+  ,ETHERNETTESTIOR(1600H))) 
+DATE:  01/01/80  TIME:  05:16:02
+
+
+MEMORY MAP OF MODULE IOPINIT
+
+MODULE START ADDRESS  PARAGRAPH = 0800H  OFFSET = 0000H
+SEGMENT MAP
+
+START     STOP     LENGTH ALIGN NAME            CLASS           OVERLAY
+
+00000H   0057DH     057EH   A   IOPELOCALRAM                    
+00580H   006FFH     0180H   G   OPIESTK                         
+00700H   007EFH     00F0H   G   ETHERNETSTK                     
+007F0H   0088FH     00A0H   G   ETHERNETTESTST                  
+                               -K                              
+00890H   00A5BH     01CCH   G   OPIEIOR                         
+00A60H   015F7H     0B98H   G   ETHERNETIOR                     
+01600H   016A5H     00A6H   G   ETHERNETTESTIO                  
+                               -R                              
+016B0H   016B0H     0000H   G   ??SEG                           
+016B0H   01715H     0066H   G   DISPLAYIOR                      
+01720H   01720H     0000H   G   BEEPIOR                         
+01720H   01720H     0000H   G   BEEPSTK                         
+01720H   01720H     0000H   G   DISKIOR                         
+01720H   01720H     0000H   G   DISKSTK                         
+01720H   01720H     0000H   G   DISPLAYSTK                      
+01720H   01720H     0000H   G   FLOPPYIOR                       
+01720H   01720H     0000H   G   FLOPPYSTK                       
+01720H   01720H     0000H   G   KEYBOARDANDMOU                  
+                               -SEIOR                          
+01720H   01720H     0000H   G   KEYBOARDANDMOU                  
+                               -SESTK                          
+01720H   01720H     0000H   G   MAINTPANELIOR                   
+01720H   01720H     0000H   G   MAINTPANELSTK                   
+01720H   01720H     0000H   G   BOOTSTRAPIOR                    
+01720H   01720H     0000H   G   BOOTSTRAPSTK                    
+08000H   09BF3H     1BF4H   G   IOPEINROM                       
+0BFC0H   0BFFFH     0040H   G   IOREGION                        

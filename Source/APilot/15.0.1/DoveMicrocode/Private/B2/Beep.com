@@ -1,0 +1,1 @@
+$!$! Used to assemble IORBeep and Beep$! and to link IORBeep and Beep to BepHndlr.lnk$!$!$ASM86 IORBeep.asm DEBUG$ASM86 Beep.asm DEBUG$ASM86 STKBeep.asm DEBUG$!$LINK86 Beep.obj,IORBeep.obj,STKBeep.obj to BepHndlr.lnk

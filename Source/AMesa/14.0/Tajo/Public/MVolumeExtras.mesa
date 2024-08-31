@@ -1,0 +1,1 @@
+-- File: MVolumeExtras.mesa - last edit: -- KAM  :	  26-Jul-84 17:11:30-- Copyright (C) Xerox Corporation 1984. All rights reserved.DIRECTORY SpecialVolume USING [Access], Volume USING [ID];MVolumeExtras: DEFINITIONS =  BEGIN    PilotOpen: PROCEDURE [volume: Volume.ID];    PilotOpenVolume: PROCEDURE [volume: Volume.ID, access: SpecialVolume.Access];    END.

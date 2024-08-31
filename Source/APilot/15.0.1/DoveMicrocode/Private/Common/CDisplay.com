@@ -1,0 +1,1 @@
+$!  ****  Display.com ******$!  ****  Used to assemble and link display handler ******$!$! Assembles DsplHdlr$!$!$SET VERIFY$ASM86 CDsplHdl.asm- SYMBOLS- GEN- TYPE- DEBUG$!$LINK86 CDsplHdl.obj to CDsplHdl.lnk

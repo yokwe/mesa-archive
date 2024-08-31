@@ -1,0 +1,1 @@
+-- Queue.mesa-- Copyright (C) 1984 by Xerox Corporation. All rights reserved.Queue: DEFINITIONS = {    Handle: TYPE[2];    Create: PROC RETURNS[q: Handle];  PutToQueue: PROC[q: Handle, lp: LONG POINTER];  GetFromQueue: PROC[q: Handle] RETURNS [lp: LONG POINTER];  Destroy: PROC[q: Handle];    }.

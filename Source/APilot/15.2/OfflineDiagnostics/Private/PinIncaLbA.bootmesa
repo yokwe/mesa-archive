@@ -1,0 +1,1 @@
+-- Copyright (C) 1987  by Xerox Corporation. All rights reserved. -- PinIncaLbA.bootmesa 30-Apr-87 18:38:30 by JMA---- The purpose of this file is to pin Inca loopback pattern down in-- resident memory.--RESIDENT:  GLOBALFRAME [l19enA],  l19enA;-- 30-Apr-87 18:38:18	JMA: Created file.

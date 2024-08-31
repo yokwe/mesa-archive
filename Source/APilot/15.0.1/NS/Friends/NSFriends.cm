@@ -1,0 +1,1 @@
+//NSFriends.cm - AOF  27-Jan-87 10:04:04Access why/c "Rebuild compile friends" out/s NSFriends.dfBringOver NSFriends.dfCompile EchoServer NSTypes BootServerTypes NSBuffer PacketStream Socket PacketExchangeInternal RoutingTable RouterInternal RouterOpsSModel /n NSFriends.dfVerifyDF NSFriends.dfSModel /v NSFriends.df

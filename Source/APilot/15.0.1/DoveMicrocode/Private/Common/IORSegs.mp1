@@ -1,0 +1,59 @@
+
+IBM PC-DOS 8086 LINKER, V2.0
+
+INPUT FILES: TEMP2.LNK, TEMP3.LNK, IORPCE.LNK, IORMMPCE.LNK, IORPPO.OBJ, 
+  IORBERM.OBJ, IORRAMBT.OBJ, IOREND.OBJ
+OUTPUT FILE: IORSEGS.LNK
+CONTROLS SPECIFIED IN INVOCATION COMMAND:
+DATE:  03/06/89  TIME:  20:26:16
+
+
+LINK MAP OF MODULE IOREGION
+
+LOGICAL SEGMENTS INCLUDED:
+LENGTH ADDRESS ALIGN  SEGMENT         CLASS           OVERLAY
+ 0000H ------    G    ??SEG                                         
+ 0040H ------    G    IOREGION                                      
+ 01CCH ------    G    OPIEIOR                                       
+ 01C0H ------    W    OPIEIORINRAM                                  
+ 0018H ------    G    BEEPIOR                                       
+ 00B8H ------    G    DISKIOR                                       
+ 006AH ------    G    DISPLAYIOR                                    
+ 32C4H ------    G    ETHERNETIOR                                   
+ 00E8H ------    G    FLOPPYIOR                                     
+ 0136H ------    G    KEYBOARDANDMOU                                
+                     -SEIOR                                         
+ 001CH ------    G    PARITYIOR                                     
+ 0022H ------    G    MAINTPANELIOR                                 
+ 0038H ------    G    MESAPROCESSORI                                
+                     -OR                                            
+ 0048H ------    G    UCODEIOR                                      
+ 0066H ------    G    TTYIOR                                        
+ 0120H ------    G    RS232CIOR                                     
+ 00A2H ------    G    CONFIGURATIONI                                
+                     -OR                                            
+ 007BH ------    G    PCEDISPATCHERI                                
+                     -OR                                            
+ 004EH ------    G    PCEDISPLAYIOR                                 
+ 0136H ------    G    PCEPRINTERIOR                                 
+ 00A2H ------    G    PCEFLOPPYIOR                                  
+ 0032H ------    G    PCEDMAIOR                                     
+ 026AH ------    G    PCESERIALIOR                                  
+ 0020H ------    G    PCEMOUSEIOR                                   
+ 005DH ------    G    PCEKEYBOARDIOR                                
+ 0020H ------    G    PCECLOCKIOR                                   
+ 002AH ------    G    PCEDISKIOR                                    
+ 009CH ------    G    PPOIOR                                        
+ 0012H ------    G    CPBERMUDAIOR                                  
+ 012EH ------    G    BOOTSTRAPIOR                                  
+ 0000H ------    G    ENDIOR                                        
+
+INPUT MODULES INCLUDED:
+TEMP2.LNK(IOREGION)
+TEMP3.LNK(IORKEYMO)
+IORPCE.LNK(IORPDSPT)
+IORMMPCE.LNK(IORPMOUS)
+IORPPO.OBJ(IORPPO)
+IORBERM.OBJ(IORBERM)
+IORRAMBT.OBJ(IORRAMBT)
+IOREND.OBJ(IOREND)

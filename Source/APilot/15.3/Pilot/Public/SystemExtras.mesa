@@ -1,0 +1,1 @@
+-- Copyright (C) 1984  by Xerox Corporation. All rights reserved. -- SystemExtras.mesa,  2-Aug-84 10:53:21 by KAM  SystemExtras: DEFINITIONS = << This module defines a SIGNAL which needs to be merged into System >>  BEGIN    ClockFailed: SIGNAL;  -- RESUMable to get actual value of clock    END.

@@ -1,0 +1,1 @@
+-- Copyright (C) 1983  by Xerox Corporation. All rights reserved. -- File: MFilePerf.mesa - last edit by-- LXR         30-Sep-83 13:43:14MFilePerf: DEFINITIONS =  BEGIN  nCount, nPending: LONG CARDINAL;  END.

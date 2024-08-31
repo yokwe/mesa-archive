@@ -1,0 +1,1 @@
+-- Copyright (C) 1983  by Xerox Corporation. All rights reserved. -- DebugUtilityPilot.bootmesa    28-Feb-83 15:16:19 by JXP   -- Used when debugging UtilityPilot. Makes the BCD Resident.RESIDENT:  BCD [ALL];  -- LOG-- JXP   	28-Feb-83 15:17:18	Make the BCD resident.

@@ -1,0 +1,1 @@
+-- DFVersion.mesa  last edit, DSC      8-Feb-85 12:56:48-- Copyright (C) Xerox Corporation 1985. All rights reserved.DFVersion: DEFINITIONS =  BEGIN  Append: PROC [LONG STRING];  END.

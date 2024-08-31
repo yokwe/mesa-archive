@@ -1,0 +1,1 @@
+-- Copyright (C) 1984, 1985 by Xerox Corporation. All rights reserved.-- stored as [Iris]<WMicro>Dove>DiskInitialDove.cm;-- created on  12-Nov-84 19:01:50 -- last edited by: --    JMM   .pa           8-Jan-85 14:06:44 First release.  MakeInitialMicroBoot DiskInitialDove.db ¬ DiskBoot.loc

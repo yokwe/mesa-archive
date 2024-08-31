@@ -1,0 +1,1 @@
+-- VersionExtras.mesa  last edit, KAM     4-Oct-84 15:41:59-- Copyright (C) Xerox Corporation 1984. All rights reserved.VersionExtras: DEFINITIONS =  BEGIN  AppendCopyright: PROC [LONG STRING];  END.

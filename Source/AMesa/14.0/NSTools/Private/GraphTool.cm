@@ -1,0 +1,1 @@
+--GraphTool.cm  AOF  28-Jun-87 12:40:19//Compile private interfaceCompiler /-a-bejl-np-u GraphToolOps//Compiler modulesCompiler /-a-bejl-np-u GraphToolImpl PlotToolImpl;//bind up the resultBinder GraphTool/c-s//Store the answerSModel /a GraphToolVerify GraphTool

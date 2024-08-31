@@ -1,0 +1,1 @@
+--  NSPrintClientConfig.pack--  Revised by Alfvin:     9-Nov-82 11:59:38NSPrintClientConfigSegment: SEGMENT =  {NSPrintCourierClientImpl; NSPrintCourierUtilityImpl};  NSPrintClientConfigFrames: FRAME PACK = {NSPrintClientConfig};-- LOG--  9-Nov-82 12:01:20 - Alfvin - Created 

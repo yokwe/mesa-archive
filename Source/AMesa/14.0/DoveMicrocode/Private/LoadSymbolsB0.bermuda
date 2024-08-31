@@ -1,0 +1,1 @@
+|LoadSymbolsB0.bermuda|LoadIOPSymbols[DiskBoot];LoadIOPSymbols[RAMSysB0];LoadIOPSymbols[RAMDebug];LoadIOPSymbols[MemDebug];

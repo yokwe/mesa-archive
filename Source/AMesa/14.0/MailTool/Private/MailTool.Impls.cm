@@ -1,0 +1,1 @@
+-- MailTool.Impls.cmCompile ­ MailUtilImpl ­ MailFileImplA ­ MailFileImplB ­ MailFileImplC ­ MailFileImplD ­ MailFilterImpl ­ MailReadImplA ­ MailReadImplB ­ MailReadImplC ­ MailReadImplD ­ MailReadImplE ­ MailPostImpl ­ AnswerImpl ­ MailParseImpl ­ MailTransfersA ­ MailTransfersB ­ StreamSourceImpl ­ MailSendToolImpl ­Bind SendTool MailTool/c

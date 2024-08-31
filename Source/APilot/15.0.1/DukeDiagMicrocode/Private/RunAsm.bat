@@ -1,0 +1,1 @@
+run asm86 %1.asm debug

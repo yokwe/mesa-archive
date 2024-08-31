@@ -1,0 +1,1 @@
+//CommWorkout.cm  (last edited AOF 29-Feb-88 17:12:54)BringOver CommWorkout.df//CompileCompiler /-a-bejl-np-u EchoUserImpl YodelImpl PingImpl SppIdleImpl SppWrapImpl RexTool MultiSppImplCompiler /-a-bejl-np-u XferProtocol XferTool XferServer XferProtocolImpl//BindBinder /c-s Yodel XferTestSModel /a CommWorkout.dfVerifyDF CommWorkout.df

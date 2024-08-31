@@ -1,0 +1,1 @@
+-- VMMapLogExtras.mesaVMMapLogExtras: DEFINITIONS = {  Bug: PUBLIC SIGNAL [type: BugType];  BugType: TYPE = {    cantFindDrive, driveNotReady, duplicateOrOverlappingMapEntry,    impossibleEndcase, inProgressReturnedByDoIO,    invalidEntryType, myError, mapEntryHasTooManyPages,    mapEntryMissing, offEndOfLog, problemWithDrive};  }..

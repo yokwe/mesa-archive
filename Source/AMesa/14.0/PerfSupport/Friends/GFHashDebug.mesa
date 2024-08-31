@@ -1,0 +1,1 @@
+-- Copyright (C) 1983  by Xerox Corporation. All rights reserved. -- GFHashDebug.mesa, last edited by-- AXD    	19-Aug-83 14:02:04DIRECTORY  GFHash: TYPE USING [Table];GFHashDebug: DEFINITIONS =   BEGIN    Acquire: PROC [client: GFHash.Table] RETURNS [local: GFHash.Table];    Release: PROC [local: GFHash.Table, write: BOOLEAN];  END.

@@ -1,0 +1,1 @@
+-- IY.mesaDIRECTORYIT;IY: DEFINITIONS = {  ShowNum: PROC [h: IT.Handle, val: UNSPECIFIED, radix: CARDINAL, signed: BOOLEAN];  ShowLongNum: PROC [h: IT.Handle, val: LONG UNSPECIFIED, radix: CARDINAL, signed: BOOLEAN];  }..

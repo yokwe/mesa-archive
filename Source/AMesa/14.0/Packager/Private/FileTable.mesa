@@ -1,0 +1,1 @@
+-- Copyright (C) 1982  by Xerox Corporation. All rights reserved. -- FileTable.mesa  Last edited by Lewis on  4-Jan-82 15:26:45DIRECTORY  BcdDefs USING [FTIndex],  MFile USING [Handle];FileTable: DEFINITIONS =  BEGIN  UnknownFile: ERROR [fti: BcdDefs.FTIndex];  Build, Destroy: PROC;  HandleForFile: PROC [fti: BcdDefs.FTIndex] RETURNS [file: MFile.Handle];  END.

@@ -1,0 +1,1 @@
+// RS232CPublic.cm// Last edited by AOF 30-Jun-83 16:29:06//Access why/c "Rebuild" Out/s RS232CPublic.dfBringOver RS232CPublic //Compile modulesCompile RS232CEnvironment RS232CCorrespondents RS232C Dialup RS232CControlSModel /n RS232CPublicVerifyDF RS232CPublicSModel /v RS232CPublic

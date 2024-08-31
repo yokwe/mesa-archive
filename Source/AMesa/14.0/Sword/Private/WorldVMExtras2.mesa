@@ -1,0 +1,1 @@
+-- File: WorldVMExtras2.mesa - last edit:-- Litman              16-Oct-87 22:32:05-- Copyright (C) 1987 by Xerox Corporation. All rights reserved.DIRECTORYWorldVM;WorldVMExtras2: DEFINITIONS = {  LocalGo: PROC[world: WorldVM.World];  LocalCome: PROC[world: WorldVM.World];  }.

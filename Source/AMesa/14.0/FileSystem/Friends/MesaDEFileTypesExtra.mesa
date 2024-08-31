@@ -1,0 +1,1 @@
+-- Copyright (C) 1984  by Xerox Corporation. All rights reserved. -- File: MesaDEFileTypesExtra.mesa - last edited by-- KAM  :	13-Jul-84 11:06:13DIRECTORY  File USING [Type],  MesaDEFileTypes USING [tCascadeNub];MesaDEFileTypesExtra: DEFINITIONS =  BEGIN    tRootFile:		File.Type = [MesaDEFileTypes.tCascadeNub + 1];    END.

@@ -1,0 +1,1 @@
+-- Copyright (C) 1986  by Xerox Corporation. All rights reserved. -- Beaters.cm  (last edited by CAJ 13-Feb-86  8:48:41)CheckOutLibject Pilot-Libjects/l "Check in"/r Beaters.dfcompile FloppyBeaterImpl SwapBeaterImplbind/cs FloppyBeater SwapBeatersmodel Beatersverifydf Beaters-- LOG-- 13-Feb-86  8:48:19 CAJ	Created file.

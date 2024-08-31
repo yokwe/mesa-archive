@@ -1,0 +1,1 @@
+// File:  BlowOneHost.cm//Created by PXJ    Feb 3, 1981 1:57 PM//Last modified by RXO  on April 22, 1981  5:30 PM//  This command file blows one (1) host address prom.//  It also checks the number out and then back in to the Librarian.//  Check out the number.@CheckOutHost.cm// Prom 1:@BlowHost.cm//  Check the number back in.@CheckInHost.cm

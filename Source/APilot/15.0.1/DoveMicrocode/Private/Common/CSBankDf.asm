@@ -1,0 +1,1 @@
+;Copyright (C) 1984, 1985 by Xerox Corporation. All rights reserved.;CSBankDf.asm;For coordinating between Ramboot.asm and Csbank.asm.;Last Edited By:;	RDH    	 13-Jan-86 15:17:57	:Create.bankConfigMask	EQU	30H	;For the convenience of *InitialDove that it				; may be as small as possible.

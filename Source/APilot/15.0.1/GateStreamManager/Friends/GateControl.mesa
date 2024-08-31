@@ -1,0 +1,1 @@
+-- Copyright (C) 1984, 1985  by Xerox Corporation. All rights reserved. -- File: GateControl.mesa - last edit:-- Danielson.PA        20-Mar-84 13:00:44-- This definitions module allows one to suspend RS-232-C lines on-- a per-line basis.  Used by the ECS to when stopping.GateControl: DEFINITIONS =  BEGIN    SuspendLine: PROCEDURE [line: CARDINAL];    END....

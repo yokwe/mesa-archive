@@ -1,0 +1,1 @@
+$! Command file for TTYHandlerDove.df$!$!$ASM86 IORTTY.asm DEBUG$ASM86 STKTTY.asm DEBUG$ASM86 TTYHndlr.asm DEBUG$!$LINK86 IORTTY.obj,STKTTY.obj,TTYHndlr.obj to TTYHndlr.lnk

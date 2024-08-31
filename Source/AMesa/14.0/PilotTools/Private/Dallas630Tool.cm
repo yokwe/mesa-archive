@@ -1,0 +1,1 @@
+-- Copyright (C) 1983, 1984  by Xerox Corporation. All rights reserved. -- Dallas630Tool.cmAccess why/c "Checking in" out/-s Dallas630Tool.dfSetErrorLevel.~ error/p warning/pCompile Dallas630ToolSModel Dallas630ToolVerifyDF Dallas630Tool-- LOG-- JXG     13-Apr-83 15:50:22 created file-- AWL        3-Nov-83 17:48:28 Added checkout of .df file

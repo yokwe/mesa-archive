@@ -1,0 +1,1 @@
+-- Copyright (C) 1983, 1984  by Xerox Corporation. All rights reserved. -- compile defscompile PostDefs PostAuxDefs SigsetDefs SigsetAuxDefs TryDefs ScriptOps-- compile implscompile PostPack SigsetPack TryPack ScriptOpsImplSModel testutilitiesVerifyDF testutilities-- LOG-- AWL       19-Aug-83 16:53:33 Added SModel and VerifyDF.  Created log.

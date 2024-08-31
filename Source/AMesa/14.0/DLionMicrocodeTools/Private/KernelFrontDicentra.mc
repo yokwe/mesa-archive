@@ -1,0 +1,1 @@
+{KernelFrontDicentra.mc, HGM, 12-Oct-82 20:51:35, TPC Assignament section of KernelDicentra.mc }{Init the Emulator TPC to point to Idle.}	SetTask[0]; StartAddress[Idle];	SetTask[7]; StartAddress[KStart];

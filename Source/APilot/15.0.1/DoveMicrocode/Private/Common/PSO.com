@@ -1,0 +1,1 @@
+$SET VERIFY$! file = PSO.com$! Command file to Assemble and Link to produce OBJ and LNK files$!$ ASM86 IORPSO.ASM MOD186- SYMBOLS- TYPE- NOPAGING- DEBUG$!$ ASM86 STKPSO.ASM MOD186- SYMBOLS- TYPE- NOPAGING- DEBUG$!$ ASM86 PSOHNDLR.ASM MOD186- SYMBOLS- TYPE- NOPAGING- DEBUG$!$LINK86 PSOHndlr.obj,-  IORPSO.obj,-  STKPSO.obj to PSOHndlr.lnk$!$SET NOVERIFY

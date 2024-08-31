@@ -1,0 +1,1 @@
+STKPMous.obj,STKPKEYB.OBJ,STKPClk.obj,STKPERD.obj TO STKMmPCE.lnk

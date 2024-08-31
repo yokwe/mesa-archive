@@ -1,0 +1,1 @@
+-- Copyright (C) 1983  by Xerox Corporation. All rights reserved. -- HBCommand.mesa, HGM,  8-Mar-83  0:49:26DIRECTORY  Format USING [StringProc],  HistoryBuffer USING [Index];HBCommand: DEFINITIONS =  BEGIN    Error: ERROR [reason: LONG STRING];    Arm: PROCEDURE [Format.StringProc, LONG POINTER, LONG STRING, HistoryBuffer.Index];  END.

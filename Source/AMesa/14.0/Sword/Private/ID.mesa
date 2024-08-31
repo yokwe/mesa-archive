@@ -1,0 +1,1 @@
+-- Copyright (C) 1986  by Xerox Corporation. All rights reserved. -- ID.mesaDIRECTORYIT;ID: DEFINITIONS = {  ProcessUserCm: PROC[];  GoOperation: PROC[h: IT.Handle, go: IT.GoFormItems, signal: BOOLEAN];  CleanupClient: PROC[h: IT.Handle];  Filter: PROC[filter: LONG STRING];  }..

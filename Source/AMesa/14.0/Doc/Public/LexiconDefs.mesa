@@ -1,0 +1,1 @@
+-- Copyright (C) 1982  by Xerox Corporation. All rights reserved. --LexiconDefs.mesaDIRECTORY  TTY USING [Handle];LexiconDefs: DEFINITIONS =  BEGIN  FindString: PROCEDURE [LONG STRING] RETURNS [BOOLEAN];  AddString: PROCEDURE [LONG STRING];  PrintLexicon: PROCEDURE [TTY.Handle];  END.

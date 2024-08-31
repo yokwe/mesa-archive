@@ -1,0 +1,1 @@
+$!$! Used to assemble IORKeyMo and KeyMo$! and to link IORKeyMo and KeyMo to KeyHndlr.lnk $!$ASM86 IORKeyMo.asm DEBUG$ASM86 KeyMo.asm DEBUG$ASM86 STKKeyMo.ASM DEBUG$!$!$LINK86 KeyMo.obj,IORKeyMo.obj,STKKeyMo.obj to KeyHndlr.lnk$!$! This link wiil have an unresolved Extrn,$! it will be resolved when you link with Opie.

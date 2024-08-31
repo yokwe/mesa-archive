@@ -1,0 +1,1 @@
+-- Copyright (C) 1985  by Xerox Corporation. All rights reserved. -- Last edit by JAC	 7-Jun-85 12:26:52	copyrighted-- CPStop.mesa, JoM    , 6-Feb-85 15:22:14DIRECTORY  CP USING [Cycle, RealCS];CPStop: DEFINITIONS =  BEGIN    GetStopCS: PROCEDURE RETURNS [CP.RealCS];  SetContinueInfo: PROCEDURE [CP.RealCS, CP.Cycle];    END.

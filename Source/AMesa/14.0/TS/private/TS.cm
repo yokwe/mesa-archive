@@ -1,0 +1,1 @@
+// TS.cm, 28-Jun-87 14:56:00// compile defscompiler /-p Overlap TimeServiceToolOps // compile implsCompiler /-a-bejl-np-u OverlapImpl TimeServiceToolDisplay TimeServiceToolExec SurveyorControl SurveyorImpl TimeServiceToolCommands TimeServiceToolDiagnose TimeServiceToolMonitor// bind toolBinder TS/c-sSModel /a TSVerify TS

@@ -1,0 +1,92 @@
+IBM PC-DOS 8086 LOCATER, V2.0
+
+INPUT FILE: ALLOCSGS.LNK
+OUTPUT FILE: ALLOCSGS.LOC
+CONTROLS SPECIFIED IN INVOCATION COMMAND:
+   TO ALLOCSGS.LOC ST(ALLOCATESEGMENTS) SS(IOREGION(+1C4H))
+   PC(PURGE) RS(13B1H TO 3FFFH) AD(SM(IOPEINRAM(10000H))) 
+DATE:  03/06/89  TIME:  20:28:07
+
+
+MEMORY MAP OF MODULE IOPLRAM
+
+MODULE START ADDRESS  PARAGRAPH = 1000H  OFFSET = 0000H
+SEGMENT MAP
+
+START     STOP     LENGTH ALIGN NAME            CLASS           OVERLAY
+
+00000H   0057DH     057EH   A   IOPELOCALRAM                    
+00580H   00580H     0000H   G   ??SEG                           
+00580H   006DFH     0160H   G   OPIESTK                         
+006E0H   006FFH     0020H   G   BEEPSTK                         
+00700H   0073FH     0040H   G   DISPLAYSTK                      
+00740H   0076FH     0030H   G   KEYBOARDANDMOU                  
+                               -SESTK                          
+00770H   007AFH     0040H   G   MAINTPANELSTK                   
+007B0H   0084FH     00A0H   G   BOOTSTRAPSTK                    
+00850H   008EFH     00A0H   G   DISKSTK                         
+008F0H   0090FH     0020H   G   SYSTEMSTK                       
+00910H   009FFH     00F0H   G   ETHERNETSTK                     
+00A00H   00A9FH     00A0H   G   FLOPPYSTK                       
+00AA0H   00B3FH     00A0H   G   MESAPROCESSORS                  
+                               -TK                             
+00B40H   00C2FH     00F0H   G   TTYSTK                          
+00C30H   00C6FH     0040H   G   PARITYSTK                       
+00C70H   00CBFH     0050H   G   CONFIGURATIONS                  
+                               -TK                             
+00CC0H   00E9FH     01E0H   G   RS232CSTK                       
+00EA0H   00F3FH     00A0H   G   PCEDISPATCHERS                  
+                               -TK                             
+00F40H   00F8FH     0050H   G   PCEDISPLAYSTK                   
+00F90H   0100FH     0080H   G   PCEPRINTERSTK                   
+01010H   0105FH     0050H   G   PCEFLOPPYSTK                    
+01060H   0119FH     0140H   G   PCESERIALSTK                    
+011A0H   011DFH     0040H   G   PCEMOUSESTK                     
+011E0H   0121FH     0040H   G   PCEKEYBOARDSTK                  
+01220H   0125FH     0040H   G   PCECLOCKSTK                     
+01260H   0129FH     0040H   G   PCEDISKSTK                      
+012A0H   0138FH     00F0H   G   PPOSTK                          
+01390H   013AFH     0020H   G   CPBERMUDASTK                    
+013B0H   013B0H     0000H   G   ENDSTK                          
+04000H   04203H     0204H   G   IOREGION                        
+04210H   043DBH     01CCH   G   OPIEIOR                         
+043DCH   0459BH     01C0H   W   OPIEIORINRAM                    
+045A0H   045B7H     0018H   G   BEEPIOR                         
+045C0H   04677H     00B8H   G   DISKIOR                         
+04680H   046E9H     006AH   G   DISPLAYIOR                      
+046F0H   079B3H     32C4H   G   ETHERNETIOR                     
+079C0H   07AA7H     00E8H   G   FLOPPYIOR                       
+07AB0H   07BE5H     0136H   G   KEYBOARDANDMOU                  
+                               -SEIOR                          
+07BF0H   07C0BH     001CH   G   PARITYIOR                       
+07C10H   07C31H     0022H   G   MAINTPANELIOR                   
+07C40H   07C77H     0038H   G   MESAPROCESSORI                  
+                               -OR                             
+07C80H   07CC7H     0048H   G   UCODEIOR                        
+07CD0H   07D35H     0066H   G   TTYIOR                          
+07D40H   07E5FH     0120H   G   RS232CIOR                       
+07E60H   07F01H     00A2H   G   CONFIGURATIONI                  
+                               -OR                             
+07F10H   07F8AH     007BH   G   PCEDISPATCHERI                  
+                               -OR                             
+07F90H   07FDDH     004EH   G   PCEDISPLAYIOR                   
+07FE0H   08115H     0136H   G   PCEPRINTERIOR                   
+08120H   081C1H     00A2H   G   PCEFLOPPYIOR                    
+081D0H   08201H     0032H   G   PCEDMAIOR                       
+08210H   08479H     026AH   G   PCESERIALIOR                    
+08480H   0849FH     0020H   G   PCEMOUSEIOR                     
+084A0H   084FCH     005DH   G   PCEKEYBOARDIOR                  
+08500H   0851FH     0020H   G   PCECLOCKIOR                     
+08520H   08549H     002AH   G   PCEDISKIOR                      
+08550H   085EBH     009CH   G   PPOIOR                          
+085F0H   08601H     0012H   G   CPBERMUDAIOR                    
+08610H   0873DH     012EH   G   BOOTSTRAPIOR                    
+08740H   08740H     0000H   G   ENDIOR                          
+08740H   08740H     0000H   G   SYSTEMIOR                       
+08740H   08740H     0000H   G   UCODESTK                        
+08740H   08740H     0000H   G   PCEDMASTK                       
+08740H   08740H     0000H   G   CMOSDISPLAYIOR                  
+08740H   08740H     0000H   G   CMOSDISPLAYSTK                  
+08740H   08740H     0000H   G   PSOIOR                          
+08740H   08740H     0000H   G   PSOSTK                          
+10000H   101E6H     01E7H   W   IOPEINRAM                       

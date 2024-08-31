@@ -1,0 +1,1 @@
+BREAK ONxfile ret pSirius.asm -o -n=Sirius.asmxfile ret IOPLRAM.obj -oRUN ASM86 Sirius.asm debugPAUSERUN LINK86 IOPLRAM.obj,Sirius.obj  TO  Sirius.lnkRUN loc86 Sirius.lnk to Sirius.lm addresses (segments(SiriusSeg(1400H)))xfile store Sirius.objxfile store Sirius.lnkxfile store Sirius.lmBREAK OFF

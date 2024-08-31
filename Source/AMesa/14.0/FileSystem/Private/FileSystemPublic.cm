@@ -1,0 +1,1 @@
+-- FileSystemPublic.cm, last edit by--    DWE      5-Aug-83 11:48:10Access why "recompilation" out FileSystemPublic.dfBringOver /a FileSystemPublic.df-- public defsCompiler MFile.mesa BTree.mesa MLoader.mesa MSegment.mesa MStream.mesa MFileProperty.mesa MUsage.mesaSModel /a FileSystemPublic.dfVerifyDF FileSystemPublic.df-- SModel /za FileSystemPublic.df

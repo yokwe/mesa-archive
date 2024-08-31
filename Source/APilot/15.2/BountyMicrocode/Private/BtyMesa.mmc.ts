@@ -1,0 +1,1 @@
+-- BtyMesa.mmc.ts-- Created By MakeDoveMicroBoot of 14-May-87 23:23:19Input Files:	BountyMesaBank0.fb	/kB0C2		 6-Dec-90 10:27:53	BountyMesaBank1.fb	/kB1C2		 6-Dec-90 10:34:16Output File:	BtyMesa.mmc		no switches	 6-Dec-90 10:34:31

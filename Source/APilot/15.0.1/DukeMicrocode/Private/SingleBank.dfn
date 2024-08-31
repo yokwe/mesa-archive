@@ -1,0 +1,1 @@
+{File name: SingleBank.dfnUsed to assemble microcode for a one-bank systemLast Revised:TxH  12-Sep-88 16:11:59  changed thereAreTwoBanks into TheNumberOfBanks for DukeSCJ   7-Aug-86 16:17:29  Set FPTEnabled to indicate absence of Floating Point uCodeCreated: July 15, 1986 by JPM}Set[TheNumberOfBanks,1];Set[FPTEnabled, 0];

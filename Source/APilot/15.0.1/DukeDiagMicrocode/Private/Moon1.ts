@@ -1,0 +1,1 @@
+-- Moon1.ts-- Created By MakeDoveMicroBoot of 15-May-87 15:23:19Input Files:	Moon1.loc		/s		21-Sep-88 15:15:01Output File:	Moon1.DB		no switches	21-Sep-88 16:06:23

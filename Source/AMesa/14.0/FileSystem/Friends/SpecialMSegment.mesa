@@ -1,0 +1,1 @@
+-- Copyright (C) 1982  by Xerox Corporation. All rights reserved. -- [Igor]<Emerson>FileSystem>Friends>SpecialMSegment.mesa  Edited by-- LXR    ,	15-Oct-82 10:41:21DIRECTORY  MSegment USING [Handle];SpecialMSegment: DEFINITIONS =  BEGIN  MakeResident: PROCEDURE [segment: MSegment.Handle];  MakeSwappable: PROCEDURE [segment: MSegment.Handle];  END.  

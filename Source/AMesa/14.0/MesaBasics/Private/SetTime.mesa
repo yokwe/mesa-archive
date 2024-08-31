@@ -1,0 +1,1 @@
+-- Copyright (C) 1981  by Xerox Corporation. All rights reserved. -- SetTime.mesa; last edited by RXJ     ; 23-Feb-81 16:01:43SetTime: DEFINITIONS =  BEGIN  Set: PROCEDURE RETURNS [BOOLEAN];    END...

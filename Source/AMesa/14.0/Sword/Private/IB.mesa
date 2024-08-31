@@ -1,0 +1,1 @@
+-- IB.mesaDIRECTORYIT;IB: DEFINITIONS = {  BadLongNum: PROCEDURE [h: IT.Handle, val: LONG UNSPECIFIED];  GetModule: PUBLIC PROCEDURE [h: IT.Handle, s: LONG STRING] RETURNS [gf: IT.GFHandle];    }..

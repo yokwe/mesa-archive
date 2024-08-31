@@ -5,3 +5,5 @@ Personal copy of mesa related files
 * Data/APilot.taz -- Complete file set of APilot/15 with original file time stamp
 * Data/GVWin.taz  -- GVWin desktop, germ, installer and scavenger data files
 * Manual/* -- Scanned manual
+* Source/AMesa -- AMesa 14 and 15
+* Source/APilot -- APilot 15

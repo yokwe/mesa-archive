@@ -1,0 +1,1 @@
+--MFileServer.cm--last edited by --Nannette  	21-Oct-86 11:26:22	--JCS  		22-Jul-85 11:52:44--AOF  		 1-Jul-87 20:25:55-- compile defsCompile MFileServerOps MFileServerDebug    -- compile implsCompile /-a-bejl-np-u MFileServerDebugImpl MFileServerImplA MFileServerImplB MFileServerImplC MFileServerTool MFileServerUtilityImpl V4NSFileCourierImpl    Bind MFileServer/c-s

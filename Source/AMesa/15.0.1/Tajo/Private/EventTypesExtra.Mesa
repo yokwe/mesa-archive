@@ -1,0 +1,1 @@
+-- EventTypesExtra.mesa - last edit by -- DSC  	13-Feb-85 14:46:04-- Copyright (C) Xerox Corporation 1982. All rights reserved.DIRECTORY  EventTypes,  Supervisor: TYPE USING [Event];  EventTypesExtra: DEFINITIONS  =  BEGIN    -- Debugger: used with Event.swapping  atomicProfileChange: Supervisor.Event = [EventTypes.firstSpare+1];    END.  

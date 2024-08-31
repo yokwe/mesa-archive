@@ -1,0 +1,1 @@
+1. Load ChangeLogFaces.txt into a file window.  Select Edit.2. Load ChangeTemplateFaces.msg into a file window.3. Copy the entire contents of ChangeTemplateFaces.msg to ChangeLogFaces.txt (just before the latest message).4. Use the NEXT key to fill in the fields.  Select Save.5. Load the message into a Mail Send window and hit Deliver!6. SModel ChangeLogFaces.df.

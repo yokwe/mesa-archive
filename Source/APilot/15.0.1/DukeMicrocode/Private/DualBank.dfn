@@ -1,0 +1,1 @@
+{File name: DualBank.dfnUsed to assemble microcode for a two-bank system for DukeLast Revised:TxH  12-Sep-88 16:10:06  changed thereAreTwoBanks into TheNumberOfBanksTXM  31-May-88 19:30:22  Create}{	Copyright (C) 1988 by Fuji Xerox Co., Ltd, Tokyo, Japan.  All rights reserved.}Set[TheNumberOfBanks, 2];Set[FPTEnabled, 0];

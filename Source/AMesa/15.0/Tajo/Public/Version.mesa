@@ -1,0 +1,1 @@
+-- Version.mesa  last edit, BXM     4-Aug-81 17:34:47-- Copyright (C) Xerox Corporation 1982. All rights reserved.Version: DEFINITIONS =  BEGIN  Append: PROC [LONG STRING];  END.

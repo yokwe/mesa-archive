@@ -1,0 +1,1 @@
+$SET VERIFY$! file = PPO.com$! Command file to Assemble and Link to produce OBJ and LNK files$!$ ASM86 IORPPO.ASM MOD186- SYMBOLS- TYPE- NOPAGING- DEBUG$!$ ASM86 STKPPO.ASM MOD186- SYMBOLS- TYPE- NOPAGING- DEBUG$!$ ASM86 PPOHNDLR.ASM MOD186- SYMBOLS- TYPE- NOPAGING- DEBUG$!$LINK86 PPOHndlr.obj,-  IORPPO.obj,-  STKPPO.obj to PPOHndlr.lnk$!$SET NOVERIFY

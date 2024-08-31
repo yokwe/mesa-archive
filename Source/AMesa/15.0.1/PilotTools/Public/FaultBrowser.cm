@@ -1,0 +1,1 @@
+-- Copyright (C) 1985  by Xerox Corporation. All rights reserved. -- FaultBrowser.cmCheckOutLibject Pilot-Libjects/l "Check in"/r FaultBrowser.dfcompile FaultBrowserSModel FaultBrowserVerifyDF FaultBrowser-- LOG--  KEK     14-Jan-85 17:07:19 created file--  CAJ     26-Apr-85 16:38:49 Changed Access to CheckOutLibject.

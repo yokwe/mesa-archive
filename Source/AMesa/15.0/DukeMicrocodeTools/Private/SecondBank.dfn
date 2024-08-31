@@ -1,0 +1,1 @@
+{Copyright (C) 1989  by Fuji Xerox Co., Ltd. All rights reserved.  File   : SecondBank.dfn Author : TxH Last edit by  TxH  18-Apr-89 16:53:53  created.} Set[MyBank, 4{bank1}]; 

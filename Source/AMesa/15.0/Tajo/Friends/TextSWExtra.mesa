@@ -1,0 +1,1 @@
+-- Copyright (C) 1983  by Xerox Corporation. All rights reserved. -- TextSWExtra.mesa, last edited by-- AXD    	25-Jan-83 16:03:47DIRECTORY  Window: TYPE USING [Handle];  TextSWExtra: DEFINITIONS =  BEGIN    BecomeInputFocus: PROC [sw: Window.Handle];  END.

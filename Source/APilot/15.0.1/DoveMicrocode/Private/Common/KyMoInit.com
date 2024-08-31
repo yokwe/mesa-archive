@@ -1,0 +1,1 @@
+$!$! Used to assemble KyMoInit$! to link IORKeyMo and KyMoInit to KyMoInit.lnk $! and to locate KyMoInit.lnk to KyMoInit.loc$!$ASM86 KyMoInit.asm DEBUG$!$!$LINK86 IORKeyMo.obj,KyMoInit.obj to KyMoInit.lnk$LOC86 KyMoInit.lnk to KyMoInit.loc START(KyMoInitProc) -ADDRESSES(SEGMENTS(IOPEInRAM(0H)))$!$! 

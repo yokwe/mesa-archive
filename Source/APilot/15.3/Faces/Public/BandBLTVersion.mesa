@@ -1,0 +1,1 @@
+-- BandBLTVersion.mesa-- Copyright (C) 1986 by Xerox Corporation.  All rights reserved.-- Last edited by CRF, 20-Aug-86 16:50:22BandBLTVersion: DEFINITIONS = BEGIN  Version: TYPE = {preTrapezoid, trapezoidsImplemented, trapezoidsSkipped,    unknown};  Check: PROC RETURNS [version: Version]; END.LOG20Aug86 - CRF - created file.

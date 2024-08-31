@@ -1,0 +1,1 @@
+; File IORBerm.asm created by JAC on 23-Sep-85 17:28:39; Copyright (C) 1985 by Xerox Corporation. All rights reserved.; Last edit by JAC 27-Sep-85 16:41:34			NAME IORBerm$			NOLIST$			INCLUDE(IOPDefs.asm)$			LISTCPBermudaIOR		SEGMENT	COMMON PUBLIC CPBermudaTaskCPBermudaTask		TaskContextBlock	<>CPBermudaIOR		ENDS			END

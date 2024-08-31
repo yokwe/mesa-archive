@@ -1,0 +1,1 @@
+-- NSStringConvertExtras.mesa-- Last edited Alfvin on 27-Jan-84 14:42:50DIRECTORY NSString, NSStringConvert;NSStringConvertExtras: DEFINITIONS =BEGINConvertCharacterPicky: PROCEDURE [  c: NSString.Character, old, new: NSStringConvert.Assignments]  RETURNS [newChar: NSString.Character]  END.

@@ -1,0 +1,1 @@
+-- Copyright (C) 1982, 1983, 1985  by Xerox Corporation. All rights reserved. -- Anchor.bootmesa   11-Jun-85 13:04:07  9:25:07  by KL---- The purpose of this file is to pin client code packs down in resident-- memory.--RESIDENT:  GLOBALFRAME [HeapImpl],  HeapImpl;-- LOG   (For earlier entries, please see Mesa 10.0 archive version)-- KL    5-Jun-85  Created file.

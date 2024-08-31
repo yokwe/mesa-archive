@@ -1,0 +1,1 @@
+-- WindowFrames.pack, last edited by-- AXD    	10-Feb-83 17:26:46WindowFrames: FRAME PACK = { -- 1 - 79w  RectangleImpl;  WindowImplA;  WindowImplB;  WindowImplC;  WindowImplD;  WindowFonts};  
